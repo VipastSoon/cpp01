@@ -5,7 +5,7 @@
  *      Author: gazihan
  */
 
-#include "ANewClass.h"
+#include "include/ANewClass.h"
 #include <iostream>
 
 void ANewClass::run() {

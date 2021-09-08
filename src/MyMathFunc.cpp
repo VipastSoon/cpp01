@@ -5,7 +5,7 @@
  *      Author: gazihan
  */
 
-#include "MyMathFunc.h"
+#include "include/MyMathFunc.h"
 #include <iostream>
 
 int sum(int a, int b)
