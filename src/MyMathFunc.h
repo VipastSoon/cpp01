@@ -5,9 +5,9 @@
  *      Author: gazihan
  */
 
-#ifndef SRC_SUMFUNC_H_
-#define SRC_SUMFUNC_H_
+#ifndef SRC_MYMATHFUNC_H_
+#define SRC_MYMATHFUNC_H_
 
 int sum(int a, int b);
 
-#endif /* SRC_SUMFUNC_H_ */
+#endif /* SRC_MYMATHFUNC_H_ */

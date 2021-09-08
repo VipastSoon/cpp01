@@ -1,11 +1,11 @@
 /*
- * SumFunc.cpp
+ * MyMathFunc.cpp
  *
  *  Created on: Aug 1, 2019
  *      Author: gazihan
  */
 
-#include "SumFunc.h"
+#include "MyMathFunc.h"
 #include <iostream>
 
 int sum(int a, int b)
